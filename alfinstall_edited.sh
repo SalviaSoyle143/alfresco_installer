@@ -1,5 +1,3 @@
-Leonard 100% nga maandam
-
 #!/bin/bash
 # -------
 # Script for install of Alfresco
