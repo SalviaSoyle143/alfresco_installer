@@ -31,7 +31,7 @@ export JDBCPOSTGRES=postgresql-42.2.5.jar
 export JDBCMYSQLURL=https://dev.mysql.com/get/Downloads/Connector-J
 export JDBCMYSQL=mysql-connector-java-5.1.47.tar.gz
 
-export LIBREOFFICE=https://www.libreoffice.org/donate/dl/deb-x86_64/7.5.4/en-US/LibreOffice_7.5.4_Linux_x86-64_deb.tar.gz
+export LIBREOFFICE=https://download.documentfoundation.org/libreoffice/stable/7.5.4/deb/x86_64/LibreOffice_7.5.4_Linux_x86-64_deb.tar.gz
 export ALFRESCO_PDF_RENDERER=https://artifacts.alfresco.com/nexus/service/local/repositories/releases/content/org/alfresco/alfresco-pdf-renderer/1.1/alfresco-pdf-renderer-1.1-linux.tgz
 
 export ALFREPOWAR=https://artifacts.alfresco.com/nexus/content/groups/public/org/alfresco/content-services-community/23.1.0.145/content-services-community-23.1.0.145.war
@@ -47,12 +47,12 @@ export LXALFSHARESERVICES=https://downloads.loftux.net/alfresco/alfresco-share-s
 export LXAOS_AMP=https://downloads.loftux.net/alfresco/aos-module/alfresco-aos-module/1.2.0.1/alfresco-aos-module-1.2.0.1.amp
 
 
-export GOOGLEDOCSREPO=https://downloads.loftux.net/public/content/org/alfresco/integrations/alfresco-googledocs-repo/3.0.4.4/alfresco-googledocs-repo-3.0.4.4.amp
-export GOOGLEDOCSSHARE=https://downloads.loftux.net/public/content/org/alfresco/integrations/alfresco-googledocs-share/3.0.4.4/alfresco-googledocs-share-3.0.4.4.amp
+export GOOGLEDOCSREPO=https://artifacts.alfresco.com/nexus/content/groups/public/org/alfresco/integrations/alfresco-googledocs-repo/3.0.4.4/alfresco-googledocs-repo-3.0.4.4.amp
+export GOOGLEDOCSSHARE=https://artifacts.alfresco.com/nexus/content/groups/public/org/alfresco/integrations/alfresco-googledocs-share/3.0.4.4/alfresco-googledocs-share-3.0.4.4.amp
 
-export AOS_VTI=https://downloads.loftux.net/public/content/org/alfresco/aos-module/alfresco-vti-bin/1.6.1/alfresco-vti-bin-1.6.1.war
-export AOS_SERVER_ROOT=https://downloads.loftux.net/public/content/org/alfresco/alfresco-server-root/6.0.1/alfresco-server-root-6.0.1.war
-export AOS_AMP=https://downloads.loftux.net/public/content/org/alfresco/aos-module/alfresco-aos-module/1.6.1/alfresco-aos-module-1.6.1.amp
+export AOS_VTI=https://artifacts.alfresco.com/nexus/content/groups/public/org/alfresco/aos-module/alfresco-vti-bin/1.6.1/alfresco-vti-bin-1.6.1.war
+export AOS_SERVER_ROOT=https://artifacts.alfresco.com/nexus/content/groups/public/org/alfresco/alfresco-server-root/6.0.1/alfresco-server-root-6.0.1.war
+export AOS_AMP=https://artifacts.alfresco.com/nexus/content/groups/public/org/alfresco/aos-module/alfresco-aos-module/1.6.1/alfresco-aos-module-1.6.1.amp
 
 export BASE_BART_DOWNLOAD=https://raw.githubusercontent.com/toniblyx/alfresco-backup-and-recovery-tool/master/src/
 
